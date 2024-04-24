@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian Alexander</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianrg&label=Profile%20views&color=0e75b6&style=flat" alt="cristianrg" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://cristian-portafolio.onrender.com/](https://cristian-portafolio.onrender.com/)
 
