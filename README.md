@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend developer from México</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://cristian-portafolio.onrender.com/](https://cristian-portafolio.onrender.com/)
-
 - 💬 Ask me about **Java, Python, Node.js and Vue**
 
 - 📫 How to reach me **cristianrizogomez890@gmail.com**
