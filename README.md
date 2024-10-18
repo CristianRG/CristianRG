@@ -52,6 +52,10 @@
 
 ###
 
+<p align="left">Desarrollador full stack con dos años de experiencia en el desarrollo de páginas web, aplicaciones web usando Flask, Java con Tomcat, Node.js y Vue.js</p>
+
+###
+
 <br clear="both">
 
 <h2 align="left">Proyectos 👩‍💻</h2>
