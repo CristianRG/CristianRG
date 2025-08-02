@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola! 👋 Mi nombre es Cristian y soy desarrollador full stack ✨</h2>
+<h2 align="left">¡Hola! 👋 Mi nombre es Cristian✨</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Desarrollador full stack con experiencia en el desarrollo web, desarrollo de servidores web, bases de datos, desarrollo de API's y desarrollo de aplicaciones Android usando Java.</p>
+<p align="left">Desarrollador full stack con experiencia en el desarrollo Full Stack. Apasionado por desarrollar el backend y entusiasta de la Inteligencia Artificial. 👨‍💻</p>
 
 ###
 
