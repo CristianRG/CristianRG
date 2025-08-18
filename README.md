@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" src="https://avatars.githubusercontent.com/u/55565550?v=4" width="180"/>
+<img align="right" src="https://gifdb.com/images/high/excited-cat-typing-on-keyboard-h4bd5txm3qgpmz4l.webp" width="180"/>
 
 🔹 Apasionado por el **desarrollo backend** y la creación de soluciones web dinámicas.  
 🔹 Experiencia con **Docker**, entornos Linux y despliegue de aplicaciones.  
