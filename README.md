@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Cristian Alexander Rizo Gómez ✨</h1>
+<h1 align="center">👋 ¡Hola! Soy Cristian ✨</h1>
 <h3 align="center">Desarrollador Full Stack | Backend & Frontend | Bases de Datos | Docker | Linux</h3>
 
 ---
