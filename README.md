@@ -66,7 +66,7 @@
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Contáctame
 <div align="center">
   <a href="mailto:rizogomezalexander@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discordapp.com/users/488875096870617088"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
